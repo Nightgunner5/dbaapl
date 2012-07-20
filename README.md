@@ -5,4 +5,4 @@ Version 1
 
 The terms and conditions for using or modifying this file or files are as follows:
 
-\0. Don't be an asshole
+0. Don't be an asshole
